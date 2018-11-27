@@ -9,7 +9,7 @@ c = 1000
 print(odsetki(a, b, c))
 
 print('Lokata 12 miesieczna')
-print(odsetki (a, 12, c))
+print(odsetki(a, 12, c))
 
 kapital = c
 for i in range(4):

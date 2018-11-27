@@ -2,5 +2,5 @@ def kwadrat(n):
     for i in range(n):
         print('#' * n)
 
-print(kwadrat(6))
 
+print(kwadrat(6))
